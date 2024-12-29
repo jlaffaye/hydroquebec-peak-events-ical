@@ -1,0 +1,65 @@
+{
+    "offresDisponibles": [
+        "CPC-D",
+        "TPC-DPC",
+        "GDP-Affaires",
+        "CPC-G",
+        "TPC-GPC",
+        "TPC-M",
+        "TPC-L-Centre-C2",
+        "TPC-L-Centre-U",
+        "TPC-L-Sud-D1",
+        "TPC-L-Sud-D2",
+        "OEA"
+    ],
+    "evenements": [
+        {
+            "offre": "GDP-Affaires",
+            "dateDebut": "2024-12-29T06:00:00-05:00",
+            "dateFin": "2024-12-29T09:00:00-05:00",
+            "plageHoraire": "AM",
+            "duree": "PT03H00MS",
+            "secteurClient": "Affaires"
+        },
+        {
+            "offre": "CPC-D",
+            "dateDebut": "2024-12-29T06:00:00-05:00",
+            "dateFin": "2024-12-29T09:00:00-05:00",
+            "plageHoraire": "AM",
+            "duree": "PT03H00MS",
+            "secteurClient": "Residentiel"
+        },
+        {
+            "offre": "CPC-G",
+            "dateDebut": "2024-12-29T06:00:00-05:00",
+            "dateFin": "2024-12-29T09:00:00-05:00",
+            "plageHoraire": "AM",
+            "duree": "PT03H00MS",
+            "secteurClient": "Affaires"
+        },
+        {
+            "offre": "TPC-DPC",
+            "dateDebut": "2024-12-29T06:00:00-05:00",
+            "dateFin": "2024-12-29T09:00:00-05:00",
+            "plageHoraire": "AM",
+            "duree": "PT03H00MS",
+            "secteurClient": "Residentiel"
+        },
+        {
+            "offre": "TPC-GPC",
+            "dateDebut": "2024-12-29T06:00:00-05:00",
+            "dateFin": "2024-12-29T09:00:00-05:00",
+            "plageHoraire": "AM",
+            "duree": "PT03H00MS",
+            "secteurClient": "Affaires"
+        },
+        {
+            "offre": "TPC-M",
+            "dateDebut": "2024-12-29T06:00:00-05:00",
+            "dateFin": "2024-12-29T09:00:00-05:00",
+            "plageHoraire": "AM",
+            "duree": "PT03H00MS",
+            "secteurClient": "Affaires"
+        }
+    ]
+}
