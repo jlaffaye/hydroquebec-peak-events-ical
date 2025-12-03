@@ -1,0 +1,5 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:github.com/jlaffaye/hydroquebec-peak-events-ical
+CALSCALE:GREGORIAN
+END:VCALENDAR
