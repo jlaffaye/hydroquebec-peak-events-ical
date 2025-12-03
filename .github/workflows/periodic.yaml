@@ -1,6 +1,7 @@
 name: Periodic
 on:
   push:
+  workflow_dispatch:
   schedule:
     - cron: 10 * * * *
 jobs:
